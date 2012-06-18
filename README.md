@@ -1,4 +1,4 @@
-resume
+Résumé
 ======
 
-My resume! (how awesome is it that you can see my resume's commit history?)
+My résumé! (how awesome is it that you can see my résumé's commit history?)
